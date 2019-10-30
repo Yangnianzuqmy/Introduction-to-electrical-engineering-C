@@ -10,3 +10,5 @@ Many aspects of information are included, such as singer image, singer informati
 Besides, our search engine can also return information according to sounds. It can find songs whose melody are similiar to the sounds.  
 
 The source codes of our final project can be found in final_project folder.
+
+Part of functions of the final project are realized on linux, the remaining on windows. So we divide the final project into 2 parts, as can be seen in final_project folder.
